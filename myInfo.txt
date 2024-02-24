@@ -1,0 +1,7 @@
+pip install nltk==3.5
+pip install 
+numpy==1.19.5 
+sklearn==0.0 
+torch==1.7.1+cu110 
+transformers==3.0.2 
+OpenHowNet==0.0.1a11
